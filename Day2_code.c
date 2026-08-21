@@ -17,3 +17,4 @@ int main()
     printf("The quetiont of the numbers is %d", quetiont);
     return 0;
 }
+//Adding
