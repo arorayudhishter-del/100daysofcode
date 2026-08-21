@@ -2,7 +2,7 @@
 int main()
 {
     int a,b;
-    int sum = a = b;
+    int sum = a + b;
     int product = a * b;
     int subtract = a - b;
     int quetiont = a % b;
